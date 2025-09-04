@@ -51,7 +51,7 @@ Filtrování hodnot z tabulky economies a countries
 
 2. spojení obou CTE na základě názvu státu pomocí left join a vyselektování údajů, které by mohly být zajímavé pro konferenci.
 ----------------------------------------------------------------
-OTÁZKY A ODPOVĚDI
+# OTÁZKY A ODPOVĚDI
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 Ve všech odvětvích pravidelně roste mzda. Pouze u dvou odvětví byly zaznamenány poklesy mezd ve více než dvou letech - v odvětví B (Těžba a dobývání) v letech 2009, 2013, 2014, 2016 a v odvětví D (Výroba a rozvod elektřiny..) v letech 2011, 2013, 2015.
