@@ -12,8 +12,6 @@ Výzkumné otázky
 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
-﻿------------------------------------------------------------
-TVORBA PRIMÁRNÍ A SEKUNDÁRNÍ TABULKY
 
 # Primární tabulka
 Primární tabulka byla vytvořena pomocí následujících 4 datových sad:
@@ -50,7 +48,7 @@ Filtrování hodnot z tabulky economies a countries
 - pouze srovnatelné období s primární tabulkou - tj. období mezi lety 2006 - 2018
 
 2. spojení obou CTE na základě názvu státu pomocí left join a vyselektování údajů, které by mohly být zajímavé pro konferenci.
-----------------------------------------------------------------
+
 # OTÁZKY A ODPOVĚDI
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
